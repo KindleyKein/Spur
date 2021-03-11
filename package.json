@@ -1,0 +1,19 @@
+{
+  "name": "spurdiscord",
+  "version": "1.0.0",
+  "description": "spur discord bot thats it",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kw6m/Spur.git"
+  },
+  "author": "Subby, Kindlykein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kw6m/Spur/issues"
+  },
+  "homepage": "https://github.com/Kw6m/Spur#readme"
+}

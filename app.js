@@ -1,5 +1,5 @@
 const config = require('./.env');
-const Client = require('./src/Client.js');
+const Client = require('./src/Client.js'); // kindly your ass better make this
 const { Intents } = require('discord.js');
 
 global.__basedir = __dirname;

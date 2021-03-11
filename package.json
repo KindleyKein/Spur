@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kw6m/Spur/issues"
   },
-  "homepage": "https://github.com/Kw6m/Spur#readme"
+  "homepage": "https://github.com/Kw6m/Spur#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }

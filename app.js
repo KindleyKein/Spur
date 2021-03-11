@@ -21,7 +21,7 @@ function init() {
  // client.loadEvents('./src/events');
  // client.loadCommands('./src/commands');
  //  client.loadTopics('./data/trivia');
-   client.login(client.token);
+   client.login(client.BOT_TOKEN);
 }
 
 init();
